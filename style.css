@@ -18,6 +18,10 @@ header {
   width: 375px;
   height: 590px;
   background: #1c1a19;
+  background-image: url(./images/Illustration-header.png);
+  background-repeat: no-repeat;
+  background-size: 200px 300px;
+  background-position: 240px 390px;
 }
 
 nav {
